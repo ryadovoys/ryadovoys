@@ -6,6 +6,7 @@ More at [ryadovoy.com](https://www.ryadovoy.com).
 
 ## Tools
 
+- [annotation-tool](https://github.com/ryadovoys/annotation-tool): point at anything on a page and copy a short numbered reference for your coding agent
 - [dictator](https://github.com/ryadovoys/dictator): local dictation for Mac, nothing leaves your computer
 - [skaz](https://github.com/ryadovoys/skaz): voice and clipboard screenshots merged into one Markdown file
 - [resume.md](https://github.com/ryadovoys/resume.md): a Markdown format for resumes
